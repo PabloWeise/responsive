@@ -1,0 +1,62 @@
+
+header{
+    color: rgb(184, 132, 55);
+    text-align: center;
+    font-size: xx-large;
+    
+    
+}
+body{
+    width: 100%;
+    height: 100%;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
+h3{
+    background-color: rgba(180, 154, 8, 0.438);
+    color: seashell;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+
+
+.background{width: 100%;
+    height: 100%;
+    background-image: url(../images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;;
+
+    
+    background-attachment: fixed;
+}
+
+
+.container p{color: whitesmoke;
+    margin-top: 20px;
+    
+
+}
+
+
+    .look{
+        width: 200px;
+        height: 220px;
+        border-style: ridge;
+    }
+
+    .sunset{
+        width: 200px;
+        height: 220px;
+        border-style: ridge;
+    }
+
+
+img{
+    height: auto;
+    width: auto;
+}
+ 
